@@ -1,8 +1,4 @@
-fastapi==0.104.1
-uvicorn[standard]==0.24.0
-pydantic==1.10.13
-python-multipart==0.0.6
-korean-lunar-calendar==0.3.1
-requests==2.31.0
-python-dotenv==1.0.0
-
+flask
+flask-cors
+python-dotenv
+sqlite3

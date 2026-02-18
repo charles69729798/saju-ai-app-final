@@ -1,66 +1,62 @@
-# 사주 AI 상담 서버
+# 🔮 Fate Navigator: Saju AI Expert Engine (v1.0)
 
-NotebookLM 기반 AI 사주 상담 API 서버입니다.
+**Fate Navigator** is a high-precision, data-driven Saju (Traditional Korean Fortune Telling) application. Unlike LLM-only solutions, this app combines sub-millisecond traditional calculations with a deep knowledge database to provide context-aware, "Expert-grade" interpretations.
 
-## 설치 및 실행
+## 🚀 Key Features
 
-### 1. 의존성 설치
-```bash
-cd backend
-pip install -r requirements.txt
+- **Traditional Saju Engine**: Pure DB-based logic (No AI hallucination) for core readings.
+- **Southern Hemisphere Support**: Automatic seasonal inversion for accurate readings globally.
+- **Saju-MBTI Hybrid**: Cross-analyzes traditional "Ten Gods" (십성) personality with modern MBTI types for unique insights.
+- **Context-Aware Analysis**: Dynamic theme switching (나만 보기, 연인/썸, 직장/비즈니스) with strictly gated content.
+- **Secret Code Monetization**: Built-in relationship "Secret Code" mechanism for premium insights.
+- **Progressive Web App (PWA)**: Installable on mobile with offline-first caching strategy.
+- **MZ-Premium UI**: Modern Glassmorphism aesthetic with high-density relationship visualizations.
+
+## 🏗️ Architecture
+
+```mermaid
+graph TD
+    UI[Frontend: Vanilla JS/Glassmorphism] --> API[Backend: Flask Server]
+    API --> Calc[Saju Calculator: Seasonal Inversion]
+    API --> DB[Knowledge DB: Elements/Ten Gods/MBTI]
+    Calc --> Gen[Fortune Generator: Assembly Engine]
+    DB --> Gen
+    Gen --> UI
 ```
 
-### 2. 환경 변수 설정 (선택)
+- **`backend/app_flask.py`**: Entry point for API requests (Port 8080).
+- **`backend/fortune_generator.py`**: The "Expert Engine" that assembles 6000+ characters of content based on profile data.
+- **`backend/saju_calculator.py`**: Precise Saju math including Southern Hemisphere logic.
+- **`backend/saju_db.py`**: Knowledge Base containing interpretation blocks for all 16 MBTI types and 10 Heavenly Stems.
+- **`frontend/index.html`**: Zero-dependency SPA with premium CSS and PWA features.
+
+## 🛠️ Setup & Execution
+
+### 1. Requirements
+- Python 3.9+
+- Flask, Flask-CORS
+
+### 2. Quick Start
 ```bash
-# .env 파일 생성
-NOTEBOOKLM_NOTEBOOK_ID=a0997172-3a52-47c1-b3f8-74fcbdfbade0
+# Install dependencies
+pip install -r backend/requirements.txt
+
+# Run the server
+python backend/app_flask.py
 ```
+*Access the app at `http://localhost:8080`*
 
-### 3. 서버 실행
-```bash
-python main.py
-```
+## 🧪 Testing & Verification
 
-서버는 `http://localhost:8000`에서 실행됩니다.
+This project is built for **AI-Ready testing**. The frontend exposes several WebMCP tools and diagnostic functions:
+- **`analyzeSaju` API**: Programmatic access to the full analysis engine.
+- **`test_all_features`**: Internal diagnostic suite for UI consistency.
 
-## API 문서
+To run automated tests with Playwright/Chrome-DevTools:
+1. Ensure the server is running.
+2. Navigate to `http://localhost:8080`.
+3. Use the developer console or an agentic tool to trigger analysis flows.
 
-서버 실행 후 `http://localhost:8000/docs`에서 자동 생성된 API 문서를 확인할 수 있습니다.
-
-## 주요 엔드포인트
-
-- `GET /api/categories` - 분석 카테고리 목록 조회
-- `POST /api/saju/calculate` - 사주팔자 계산
-- `POST /api/saju/analyze` - AI 사주 상담
-
-## 테스트 예시
-
-```bash
-# 1. 사주 계산
-curl -X POST "http://localhost:8000/api/saju/calculate" \
-  -H "Content-Type: application/json" \
-  -d '{
-    "birth_date": "1969-07-14",
-    "birth_time": "09:30",
-    "gender": "남성",
-    "is_lunar": false
-  }'
-
-# 2. AI 상담 (재물운)
-curl -X POST "http://localhost:8000/api/saju/analyze" \
-  -H "Content-Type: application/json" \
-  -d '{
-    "user_profile": {
-      "birth_date": "1969-07-14",
-      "birth_time": "09:30",
-      "gender": "남성",
-      "name_korean": "박철세",
-      "name_hanja": "朴哲世",
-      "blood_type_genotype": "AO",
-      "mbti": "ISTJ",
-      "job": "소프트웨어 개발자"
-    },
-    "saju_data": {...},
-    "category": "재물운"
-  }'
-```
+---
+**Author**: Antigravity (Advanced Agentic AI)
+**Permanent Repo**: [charles69729798/saju-ai-app-final](https://github.com/charles69729798/saju-ai-app-final)

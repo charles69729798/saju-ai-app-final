@@ -1,0 +1,20 @@
+INFO:     Started server process [85784]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+WARNING:  Invalid HTTP request received.
+INFO:     127.0.0.1:59002 - "GET /api/celebs?search=%EC%86%90%ED%9D%A5%EB%AF%BC HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53609 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53609 - "GET /api/categories HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53609 - "GET /service-worker.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53609 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53609 - "GET /manifest.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53609 - "GET /icons/icon-192x192.png HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53609 - "GET /icons/icon-512x512.png HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56612 - "GET /api/celebs?search= HTTP/1.1" 200 OK
+DEBUG PROFILE: {'birth_date': '1990-12-07', 'birth_time': '11:00', 'gender': 'M', 'is_lunar': False, 'name_korean': '홍길동', 'name_hanja': '', 'mbti': 'ESFP', 'nickname': '홍길동', 'name': '홍길동', 'relation_data': {'target_name': '카리나', 'target_birth_date': '2000-04-11', 'target_birth_time': '00:00', 'target_mbti': 'ENFP', 'relation_code': 'STAR'}}
+INFO:     127.0.0.1:56449 - "POST /api/saju/analyze HTTP/1.1" 200 OK
+DEBUG PROFILE: {'birth_date': '1990-12-07', 'birth_time': '11:00', 'gender': 'M', 'is_lunar': False, 'name_korean': '홍길동', 'name_hanja': '', 'mbti': 'ESFP', 'nickname': '홍길동', 'name': '홍길동', 'relation_data': {'target_name': '카리나', 'target_birth_date': '2000-04-11', 'target_birth_time': '00:00', 'target_mbti': 'ENFP', 'relation_code': 'STAR'}}
+INFO:     127.0.0.1:54379 - "POST /api/saju/analyze HTTP/1.1" 200 OK
+DEBUG PROFILE: {'birth_date': '1990-12-07', 'birth_time': '11:00', 'gender': 'M', 'is_lunar': False, 'name_korean': '홍길동', 'name_hanja': '', 'mbti': 'ESFP', 'nickname': '홍길동', 'name': '홍길동', 'relation_data': {'target_name': '카리나', 'target_birth_date': '2000-04-11', 'target_birth_time': '00:00', 'target_mbti': 'ENFP', 'relation_code': 'STAR'}}
+INFO:     127.0.0.1:62681 - "POST /api/saju/analyze HTTP/1.1" 200 OK

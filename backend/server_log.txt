@@ -1,0 +1,329 @@
+??celeb_saju ?뚯씠釉??앹꽦 ?꾨즺
+?? ?ъ＜ AI ?곷떞 ?쒕쾭 ?쒖옉 (DB ?꾩슜 ?ㅽ봽?쇱씤 踰꾩쟾)
+?뱧 http://localhost:8000
+?뱤 紐⑤뱶: 濡쒖뺄 SQLite DB 湲곕컲 (?명꽣??遺덊븘??
+ * Serving Flask app 'app_flask'
+ * Debug mode: on
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.219.147:8000
+Press CTRL+C to quit
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 141-268-599
+ * Detected change in 'C:\\InsuranceProject\\NotebookLM\\saju-app\\backend\\test_api.py', reloading
+??celeb_saju ?뚯씠釉??앹꽦 ?꾨즺
+?? ?ъ＜ AI ?곷떞 ?쒕쾭 ?쒖옉 (DB ?꾩슜 ?ㅽ봽?쇱씤 踰꾩쟾)
+?뱧 http://localhost:8000
+?뱤 紐⑤뱶: 濡쒖뺄 SQLite DB 湲곕컲 (?명꽣??遺덊븘??
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 141-268-599
+127.0.0.1 - - [17/Feb/2026 17:50:05] "POST /api/saju/analyze HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 17:53:55] "GET /api/celebs?search= HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 17:54:57] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [17/Feb/2026 17:54:59] "GET /api/categories HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 17:54:59] "GET /favicon.ico HTTP/1.1" 404 -
+ * Detected change in 'C:\\InsuranceProject\\NotebookLM\\saju-app\\backend\\app_flask.py', reloading
+??celeb_saju ?뚯씠釉??앹꽦 ?꾨즺
+?? ?ъ＜ AI ?곷떞 ?쒕쾭 ?쒖옉 (DB ?꾩슜 ?ㅽ봽?쇱씤 踰꾩쟾)
+?뱧 http://localhost:8000
+?뱤 紐⑤뱶: 濡쒖뺄 SQLite DB 湲곕컲 (?명꽣??遺덊븘??
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 141-268-599
+127.0.0.1 - - [17/Feb/2026 17:59:02] "POST /api/saju/analyze HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 18:01:11] "GET /api/celebs?search= HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 18:01:49] "GET /api/celebs?search= HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 18:01:57] "GET /api/celebs?search= HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 18:08:45] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [17/Feb/2026 18:08:46] "GET /service-worker.js HTTP/1.1" 304 -
+127.0.0.1 - - [17/Feb/2026 18:09:12] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [17/Feb/2026 18:09:12] "GET /icons/icon-144x144.png HTTP/1.1" 304 -
+127.0.0.1 - - [17/Feb/2026 18:09:13] "GET /service-worker.js HTTP/1.1" 304 -
+127.0.0.1 - - [17/Feb/2026 18:09:29] "GET /service-worker.js HTTP/1.1" 304 -
+127.0.0.1 - - [17/Feb/2026 18:10:30] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 18:10:33] "GET /api/categories HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 18:10:33] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [17/Feb/2026 18:12:46] "GET /api/categories HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 18:12:46] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [17/Feb/2026 18:12:48] "GET /service-worker.js HTTP/1.1" 304 -
+127.0.0.1 - - [17/Feb/2026 18:17:04] "GET /api/categories HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 18:17:12] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 18:17:12] "GET /api/categories HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 18:17:12] "GET /service-worker.js HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 18:17:13] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [17/Feb/2026 18:17:13] "GET /icons/icon-192x192.png HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 18:17:13] "GET /manifest.json HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 18:17:13] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [17/Feb/2026 18:17:13] "GET /manifest.json HTTP/1.1" 304 -
+127.0.0.1 - - [17/Feb/2026 18:17:13] "GET /icons/icon-512x512.png HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 18:17:13] "GET /icons/icon-144x144.png HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 18:17:45] "GET /api/celebs?search= HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 18:19:18] "POST /api/saju/analyze HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "C:\Users\pc1\AppData\Roaming\Python\Python314\site-packages\flask\app.py", line 1478, in __call__
+    return self.wsgi_app(environ, start_response)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc1\AppData\Roaming\Python\Python314\site-packages\flask\app.py", line 1458, in wsgi_app
+    response = self.handle_exception(e)
+  File "C:\Users\pc1\AppData\Roaming\Python\Python314\site-packages\flask_cors\extension.py", line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+                                                ~^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc1\AppData\Roaming\Python\Python314\site-packages\flask\app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\pc1\AppData\Roaming\Python\Python314\site-packages\flask\app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\pc1\AppData\Roaming\Python\Python314\site-packages\flask_cors\extension.py", line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+                                                ~^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc1\AppData\Roaming\Python\Python314\site-packages\flask\app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\pc1\AppData\Roaming\Python\Python314\site-packages\flask\app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\InsuranceProject\NotebookLM\saju-app\backend\app_flask.py", line 133, in analyze_saju
+    result = generate_fortune(
+    
+  File "C:\InsuranceProject\NotebookLM\saju-app\backend\fortune_generator.py", line 936, in generate_fortune
+    saju = calculate_full_saju(birth_date, birth_time, is_sh)
+  File "C:\InsuranceProject\NotebookLM\saju-app\backend\saju_calculator.py", line 149, in calculate_full_saju
+    year, month, day = map(int, birth_date.split("-"))
+                                ^^^^^^^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'split'
+ * Detected change in 'C:\\InsuranceProject\\NotebookLM\\saju-app\\backend\\app_flask.py', reloading
+??celeb_saju ?뚯씠釉??앹꽦 ?꾨즺
+?? ?ъ＜ AI ?곷떞 ?쒕쾭 ?쒖옉 (DB ?꾩슜 ?ㅽ봽?쇱씤 踰꾩쟾)
+?뱧 http://localhost:8000
+?뱤 紐⑤뱶: 濡쒖뺄 SQLite DB 湲곕컲 (?명꽣??遺덊븘??
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 141-268-599
+127.0.0.1 - - [17/Feb/2026 18:22:50] "GET /api/categories HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 18:22:50] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [17/Feb/2026 18:22:50] "GET /icons/icon-144x144.png HTTP/1.1" 304 -
+127.0.0.1 - - [17/Feb/2026 18:22:52] "GET /service-worker.js HTTP/1.1" 304 -
+127.0.0.1 - - [17/Feb/2026 18:24:05] "GET /api/celebs?search= HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 18:24:22] "GET /api/celebs?search= HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 18:24:51] "POST /api/saju/analyze HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 18:25:32] "POST /api/saju/analyze HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 18:25:37] "POST /api/saju/analyze HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 18:25:43] "POST /api/saju/analyze HTTP/1.1" 400 -
+127.0.0.1 - - [17/Feb/2026 18:25:45] "POST /api/saju/analyze HTTP/1.1" 400 -
+127.0.0.1 - - [17/Feb/2026 18:25:46] "POST /api/saju/analyze HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 18:25:53] "POST /api/saju/analyze HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 18:26:00] "POST /api/saju/analyze HTTP/1.1" 400 -
+127.0.0.1 - - [17/Feb/2026 18:26:02] "POST /api/saju/analyze HTTP/1.1" 400 -
+127.0.0.1 - - [17/Feb/2026 19:09:51] "POST /api/saju/analyze HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 19:09:53] "POST /api/saju/analyze HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 19:09:55] "POST /api/saju/analyze HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 19:09:57] "POST /api/saju/analyze HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 19:09:59] "POST /api/saju/analyze HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 19:12:18] "POST /api/saju/analyze HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 19:12:20] "POST /api/saju/analyze HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 19:12:22] "POST /api/saju/analyze HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 19:12:24] "POST /api/saju/analyze HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 19:12:26] "POST /api/saju/analyze HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 19:14:22] "GET /service-worker.js HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 19:14:22] "GET /manifest.json HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 19:14:23] "GET /icons/icon-192x192.png HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 19:14:23] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 19:14:23] "GET /icons/icon-512x512.png HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 19:16:57] "GET /service-worker.js HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 19:16:57] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 19:16:57] "GET /icons/icon-192x192.png HTTP/1.1" 304 -
+127.0.0.1 - - [17/Feb/2026 19:16:57] "GET /manifest.json HTTP/1.1" 304 -
+127.0.0.1 - - [17/Feb/2026 19:16:57] "GET /icons/icon-512x512.png HTTP/1.1" 304 -
+127.0.0.1 - - [17/Feb/2026 19:18:36] "GET /api/categories HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 19:18:44] "POST /api/saju/analyze HTTP/1.1" 415 -
+127.0.0.1 - - [17/Feb/2026 19:18:45] "POST /api/saju/analyze HTTP/1.1" 415 -
+127.0.0.1 - - [17/Feb/2026 19:19:12] "POST /api/saju/analyze HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 19:19:14] "POST /api/saju/analyze HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 19:19:17] "POST /api/saju/analyze HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 19:19:19] "POST /api/saju/analyze HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 19:19:22] "POST /api/saju/analyze HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 19:19:24] "POST /api/saju/analyze HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 19:19:27] "POST /api/saju/analyze HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 19:19:29] "POST /api/saju/analyze HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 19:19:32] "POST /api/saju/analyze HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 19:19:35] "POST /api/saju/analyze HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 19:19:37] "POST /api/saju/analyze HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 19:19:40] "POST /api/saju/analyze HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 19:19:42] "POST /api/saju/analyze HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 19:19:45] "POST /api/saju/analyze HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 19:19:47] "POST /api/saju/analyze HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 19:19:50] "POST /api/saju/analyze HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 19:19:52] "POST /api/saju/analyze HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 19:19:55] "POST /api/saju/analyze HTTP/1.1" 200 -
+ * Detected change in 'C:\\InsuranceProject\\NotebookLM\\saju-app\\backend\\comprehensive_test.py', reloading
+??celeb_saju ?뚯씠釉??앹꽦 ?꾨즺
+?? ?ъ＜ AI ?곷떞 ?쒕쾭 ?쒖옉 (DB ?꾩슜 ?ㅽ봽?쇱씤 踰꾩쟾)
+?뱧 http://localhost:8000
+?뱤 紐⑤뱶: 濡쒖뺄 SQLite DB 湲곕컲 (?명꽣??遺덊븘??
+DEBUG: analyze_saju data structure: <class 'dict'> - {}
+DEBUG: analyze_saju data structure: <class 'dict'> - {}
+DEBUG: analyze_saju data structure: <class 'dict'> - {}
+DEBUG: analyze_saju data structure: <class 'dict'> - {}
+DEBUG: analyze_saju data structure: <class 'dict'> - {}
+DEBUG: analyze_saju data structure: <class 'dict'> - {}
+DEBUG: analyze_saju data structure: <class 'dict'> - {}
+DEBUG: analyze_saju data structure: <class 'dict'> - {}
+DEBUG: analyze_saju data structure: <class 'dict'> - {}
+DEBUG: analyze_saju data structure: <class 'str'> - 1990-01-01
+DEBUG: analyze_saju data structure: <class 'str'> - 1990-01-01
+DEBUG: analyze_saju data structure: <class 'str'> - 1990-01-01
+DEBUG: analyze_saju data structure: <class 'str'> - 1990-01-01
+DEBUG: analyze_saju data structure: <class 'str'> - 1990-01-01
+DEBUG: analyze_saju data structure: <class 'str'> - 1990-01-01
+DEBUG: analyze_saju data structure: <class 'str'> - 1990-01-01
+DEBUG: analyze_saju data structure: <class 'str'> - 1990-01-01
+DEBUG: analyze_saju data structure: <class 'str'> - 1990-01-01
+DEBUG: analyze_saju data structure: <class 'str'> - 1990-01-01
+DEBUG: analyze_saju data structure: <class 'str'> - 1990-05-05
+DEBUG: analyze_saju data structure: <class 'str'> - 1990-05-05
+DEBUG: analyze_saju data structure: <class 'str'> - 1990-05-05
+DEBUG: analyze_saju data structure: <class 'str'> - 1990-05-05
+DEBUG: analyze_saju data structure: <class 'str'> - 1990-05-05
+DEBUG: analyze_saju data structure: <class 'str'> - 1990-05-05
+DEBUG: analyze_saju data structure: <class 'str'> - 1990-05-05
+DEBUG: analyze_saju data structure: <class 'str'> - 1990-05-05
+DEBUG: analyze_saju data structure: <class 'str'> - 1990-05-05
+DEBUG: analyze_saju data structure: <class 'str'> - 1982-11-20
+DEBUG: analyze_saju data structure: <class 'str'> - 1982-11-20
+DEBUG: analyze_saju data structure: <class 'str'> - 1982-11-20
+DEBUG: analyze_saju data structure: <class 'str'> - 1982-11-20
+DEBUG: analyze_saju data structure: <class 'str'> - 1982-11-20
+DEBUG: analyze_saju data structure: <class 'str'> - 1982-11-20
+DEBUG: analyze_saju data structure: <class 'str'> - 1982-11-20
+DEBUG: analyze_saju data structure: <class 'str'> - 1982-11-20
+DEBUG: analyze_saju data structure: <class 'str'> - 1982-11-20
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 141-268-599
+ * Detected change in 'C:\\InsuranceProject\\NotebookLM\\saju-app\\backend\\comprehensive_test.py', reloading
+??celeb_saju ?뚯씠釉??앹꽦 ?꾨즺
+?? ?ъ＜ AI ?곷떞 ?쒕쾭 ?쒖옉 (DB ?꾩슜 ?ㅽ봽?쇱씤 踰꾩쟾)
+?뱧 http://localhost:8000
+?뱤 紐⑤뱶: 濡쒖뺄 SQLite DB 湲곕컲 (?명꽣??遺덊븘??
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 141-268-599
+127.0.0.1 - - [17/Feb/2026 19:29:38] "GET /api/categories HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 19:29:38] "POST /api/saju/analyze HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 19:29:38] "POST /api/saju/analyze HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 19:29:38] "POST /api/saju/analyze HTTP/1.1" 400 -
+127.0.0.1 - - [17/Feb/2026 19:32:12] "GET /api/categories HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 19:32:12] "POST /api/saju/analyze HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 19:32:12] "POST /api/saju/analyze HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 19:32:12] "POST /api/saju/analyze HTTP/1.1" 400 -
+ * Detected change in 'C:\\InsuranceProject\\NotebookLM\\saju-app\\backend\\fortune_generator.py', reloading
+??celeb_saju ?뚯씠釉??앹꽦 ?꾨즺
+?? ?ъ＜ AI ?곷떞 ?쒕쾭 ?쒖옉 (DB ?꾩슜 ?ㅽ봽?쇱씤 踰꾩쟾)
+?뱧 http://localhost:8000
+?뱤 紐⑤뱶: 濡쒖뺄 SQLite DB 湲곕컲 (?명꽣??遺덊븘??
+DEBUG: analyze_saju data structure: <class 'str'> - 1995-05-05
+DEBUG: analyze_saju data structure: <class 'str'> - 1995-05-05
+DEBUG: analyze_saju data structure: <class 'str'> - 1995-05-05
+DEBUG: analyze_saju data structure: <class 'str'> - 1995-05-05
+DEBUG: analyze_saju data structure: <class 'str'> - 1995-05-05
+DEBUG: analyze_saju data structure: <class 'str'> - 1995-05-05
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 141-268-599
+127.0.0.1 - - [17/Feb/2026 19:32:29] "GET /api/categories HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 19:32:29] "POST /api/saju/analyze HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 19:32:29] "POST /api/saju/analyze HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 19:32:29] "POST /api/saju/analyze HTTP/1.1" 400 -
+127.0.0.1 - - [17/Feb/2026 19:50:47] "POST /api/saju/analyze HTTP/1.1" 400 -
+127.0.0.1 - - [17/Feb/2026 19:50:49] "POST /api/saju/analyze HTTP/1.1" 400 -
+127.0.0.1 - - [17/Feb/2026 19:50:51] "POST /api/saju/analyze HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 19:50:53] "POST /api/saju/analyze HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 19:50:55] "POST /api/saju/analyze HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 19:50:57] "POST /api/saju/analyze HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 19:50:59] "POST /api/saju/analyze HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 19:51:01] "POST /api/saju/analyze HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 19:51:03] "POST /api/saju/analyze HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 19:51:05] "POST /api/saju/analyze HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 19:51:07] "POST /api/saju/analyze HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 19:51:09] "POST /api/saju/analyze HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 19:51:11] "POST /api/saju/analyze HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 19:51:13] "POST /api/saju/analyze HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 19:51:15] "POST /api/saju/analyze HTTP/1.1" 200 -
+ * Detected change in 'C:\\InsuranceProject\\NotebookLM\\saju-app\\backend\\fortune_generator.py', reloading
+??celeb_saju ?뚯씠釉??앹꽦 ?꾨즺
+?? ?ъ＜ AI ?곷떞 ?쒕쾭 ?쒖옉 (DB ?꾩슜 ?ㅽ봽?쇱씤 踰꾩쟾)
+?뱧 http://localhost:8000
+?뱤 紐⑤뱶: 濡쒖뺄 SQLite DB 湲곕컲 (?명꽣??遺덊븘??
+DEBUG: analyze_saju data structure: <class 'str'> - 1995-05-05
+DEBUG: analyze_saju data structure: <class 'str'> - 1995-05-05
+DEBUG: analyze_saju data structure: <class 'str'> - 1995-05-05
+DEBUG: analyze_saju data structure: <class 'str'> - 1990-01-01
+DEBUG: analyze_saju data structure: <class 'str'> - 1990-01-01
+DEBUG: analyze_saju data structure: <class 'str'> - 1990-01-01
+DEBUG: analyze_saju data structure: <class 'str'> - 1990-01-01
+DEBUG: analyze_saju data structure: <class 'str'> - 1990-01-01
+DEBUG: analyze_saju data structure: <class 'str'> - 1990-01-01
+DEBUG: analyze_saju data structure: <class 'str'> - 1992-03-15
+DEBUG: analyze_saju data structure: <class 'str'> - 1985-07-07
+DEBUG: analyze_saju data structure: <class 'str'> - 2000-12-25
+DEBUG: analyze_saju data structure: <class 'str'> - 1988-08-08
+DEBUG: analyze_saju data structure: <class 'str'> - 1995-05-05
+DEBUG: analyze_saju data structure: <class 'str'> - 1996-06-06
+DEBUG: analyze_saju data structure: <class 'str'> - 1980-02-20
+DEBUG: analyze_saju data structure: <class 'str'> - 1999-09-09
+DEBUG: analyze_saju data structure: <class 'str'> - 1990-01-01
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 141-268-599
+ * Detected change in 'C:\\InsuranceProject\\NotebookLM\\saju-app\\backend\\fortune_generator.py', reloading
+??celeb_saju ?뚯씠釉??앹꽦 ?꾨즺
+?? ?ъ＜ AI ?곷떞 ?쒕쾭 ?쒖옉 (DB ?꾩슜 ?ㅽ봽?쇱씤 踰꾩쟾)
+?뱧 http://localhost:8000
+?뱤 紐⑤뱶: 濡쒖뺄 SQLite DB 湲곕컲 (?명꽣??遺덊븘??
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 141-268-599
+ * Detected change in 'C:\\InsuranceProject\\NotebookLM\\saju-app\\backend\\verify_data_integrity.py', reloading
+??celeb_saju ?뚯씠釉??앹꽦 ?꾨즺
+?? ?ъ＜ AI ?곷떞 ?쒕쾭 ?쒖옉 (DB ?꾩슜 ?ㅽ봽?쇱씤 踰꾩쟾)
+?뱧 http://localhost:8000
+?뱤 紐⑤뱶: 濡쒖뺄 SQLite DB 湲곕컲 (?명꽣??遺덊븘??
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 141-268-599
+127.0.0.1 - - [17/Feb/2026 20:01:03] "POST /api/saju/analyze HTTP/1.1" 400 -
+127.0.0.1 - - [17/Feb/2026 20:01:05] "POST /api/saju/analyze HTTP/1.1" 400 -
+127.0.0.1 - - [17/Feb/2026 20:01:07] "POST /api/saju/analyze HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 20:01:09] "POST /api/saju/analyze HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 20:01:11] "POST /api/saju/analyze HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 20:01:19] "POST /api/saju/analyze HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 20:01:21] "POST /api/saju/analyze HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 20:01:23] "POST /api/saju/analyze HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 20:01:25] "POST /api/saju/analyze HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 20:01:27] "POST /api/saju/analyze HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 20:01:29] "POST /api/saju/analyze HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 20:01:31] "POST /api/saju/analyze HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 20:01:33] "POST /api/saju/analyze HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 20:01:35] "POST /api/saju/analyze HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 20:01:37] "POST /api/saju/analyze HTTP/1.1" 200 -
+ * Detected change in 'C:\\InsuranceProject\\NotebookLM\\saju-app\\backend\\test_browser_mcp.py', reloading
+??celeb_saju ?뚯씠釉??앹꽦 ?꾨즺
+?? ?ъ＜ AI ?곷떞 ?쒕쾭 ?쒖옉 (DB ?꾩슜 ?ㅽ봽?쇱씤 踰꾩쟾)
+?뱧 http://localhost:8000
+?뱤 紐⑤뱶: 濡쒖뺄 SQLite DB 湲곕컲 (?명꽣??遺덊븘??
+DEBUG: analyze_saju data structure: <class 'str'> - 1990-01-01
+DEBUG: analyze_saju data structure: <class 'str'> - 1990-01-01
+DEBUG: analyze_saju data structure: <class 'str'> - 1990-01-01
+DEBUG: analyze_saju data structure: <class 'str'> - 1990-01-01
+DEBUG: analyze_saju data structure: <class 'str'> - 1990-01-01
+DEBUG: analyze_saju data structure: <class 'str'> - 1990-01-01
+DEBUG: analyze_saju data structure: <class 'str'> - 1992-03-15
+DEBUG: analyze_saju data structure: <class 'str'> - 1985-07-07
+DEBUG: analyze_saju data structure: <class 'str'> - 2000-12-25
+DEBUG: analyze_saju data structure: <class 'str'> - 1988-08-08
+DEBUG: analyze_saju data structure: <class 'str'> - 1995-05-05
+DEBUG: analyze_saju data structure: <class 'str'> - 1996-06-06
+DEBUG: analyze_saju data structure: <class 'str'> - 1980-02-20
+DEBUG: analyze_saju data structure: <class 'str'> - 1999-09-09
+DEBUG: analyze_saju data structure: <class 'str'> - 1990-01-01

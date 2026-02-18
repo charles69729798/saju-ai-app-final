@@ -1,0 +1,43 @@
+Generating: 평생사주...
+Generating: 재물운...
+Generating: 직업운...
+Generating: 애정운...
+Generating: 건강운...
+Generating: 신년운세...
+Generating: MBTI분석...
+
+==================================================
+CROSS-THEME SIMILARITY AUDIT
+==================================================
+[평생사주] vs [재물운]: 17.4% Similarity (8 overlapping long lines)
+[평생사주] vs [직업운]: 17.4% Similarity (8 overlapping long lines)
+[평생사주] vs [애정운]: 19.6% Similarity (9 overlapping long lines)
+[평생사주] vs [건강운]: 17.4% Similarity (8 overlapping long lines)
+[평생사주] vs [신년운세]: 21.7% Similarity (10 overlapping long lines)
+[평생사주] vs [MBTI분석]: 21.7% Similarity (10 overlapping long lines)
+[재물운] vs [직업운]: 28.1% Similarity (9 overlapping long lines)
+[재물운] vs [애정운]: 29.0% Similarity (9 overlapping long lines)
+[재물운] vs [건강운]: 24.3% Similarity (9 overlapping long lines)
+[재물운] vs [신년운세]: 28.6% Similarity (10 overlapping long lines)
+[재물운] vs [MBTI분석]: 27.3% Similarity (9 overlapping long lines)
+[직업운] vs [애정운]: 28.1% Similarity (9 overlapping long lines)
+[직업운] vs [건강운]: 32.4% Similarity (12 overlapping long lines)
+[직업운] vs [신년운세]: 22.9% Similarity (8 overlapping long lines)
+[직업운] vs [MBTI분석]: 27.3% Similarity (9 overlapping long lines)
+[애정운] vs [건강운]: 24.3% Similarity (9 overlapping long lines)
+[애정운] vs [신년운세]: 22.9% Similarity (8 overlapping long lines)
+[애정운] vs [MBTI분석]: 30.3% Similarity (10 overlapping long lines)
+[건강운] vs [신년운세]: 21.6% Similarity (8 overlapping long lines)
+[건강운] vs [MBTI분석]: 24.3% Similarity (9 overlapping long lines)
+[신년운세] vs [MBTI분석]: 22.9% Similarity (8 overlapping long lines)
+
+==================================================
+COACH'S LAST TIP AUDIT
+==================================================
+[평생사주]: 🧬 **본캐 마스터 플랜**: 비견의 기세를 믿고 장기적인 관계 속에서 '비견'의 매력을 발산하는 소통법 (자신의 강점을 믿고 나아가세요)를 실전하세요. 관계 속에서 '비견'의 매력을 발산하는 소통법 (자신의 강점을 믿고 나아가세요)를 꾸준히 반복하는 것이 운의 흐름을 바꾸는 가장 빠른 방법입니다. 오늘부터 작은 실행을 시작하세요.
+[재물운]: 💰 **머니 플렉스 전략**: 비견의 치밀한 기질을 재테크에 투생하세요. 관계 속에서 '비견'의 매력을 발산하는 소통법 (자신의 강점을 믿고 나아가세요)를 꾸준히 반복하는 것이 운의 흐름을 바꾸는 가장 빠른 방법입니다. 오늘부터 작은 실행을 시작하세요.
+[직업운]: 🚀 **커리어 치트키**: 비견의 추진력이 당신을 커리어 정점으로 이끌 것입니다. 관계 속에서 '비견'의 매력을 발산하는 소통법 (자신의 강점을 믿고 나아가세요)를 꾸준히 반복하는 것이 운의 흐름을 바꾸는 가장 빠른 방법입니다. 오늘부터 작은 실행을 시작하세요.
+[애정운]: 💕 **러브 시그널**: 관계의 핵심은 비견의 포용력과 목의 유연함입니다. 관계 속에서 '비견'의 매력을 발산하는 소통법 (자신의 강점을 믿고 나아가세요)를 꾸준히 반복하는 것이 운의 흐름을 바꾸는 가장 빠른 방법입니다. 오늘부터 작은 실행을 시작하세요.
+[건강운]: 💪 **HP 관리 비법**: 당신의 기운을 정화하는 목 에너지를 일상에 채우세요. 관계 속에서 '비견'의 매력을 발산하는 소통법 (자신의 강점을 믿고 나아가세요)를 꾸준히 반복하는 것이 운의 흐름을 바꾸는 가장 빠른 방법입니다. 오늘부터 작은 실행을 시작하세요.
+[신년운세]: 🔮 **연간 스포일러**: 2026년 화(火)의 기운을 비견의 지혜로 제어하며 승리하세요. 관계 속에서 '비견'의 매력을 발산하는 소통법 (자신의 강점을 믿고 나아가세요)를 꾸준히 반복하는 것이 운의 흐름을 바꾸는 가장 빠른 방법입니다. 오늘부터 작은 실행을 시작하세요.
+[MBTI분석]: 🧠 **뇌 구조 동기화**: ENFP의 성향과 비견의 사주 DNA가 만나는 지점이 당신의 필승 구역입니다. 관계 속에서 '비견'의 매력을 발산하는 소통법 (자신의 강점을 믿고 나아가세요)를 꾸준히 반복하는 것이 운의 흐름을 바꾸는 가장 빠른 방법입니다. 오늘부터 작은 실행을 시작하세요.

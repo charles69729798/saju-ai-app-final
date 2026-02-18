@@ -1,0 +1,32 @@
+?? Starting Bulk Verification for 10 users...
+Analyzing User11 (ISTP)...
+Analyzing User12 (ENFJ)...
+Analyzing User13 (INTJ)...
+
+==================================================
+BULK ANALYSIS REPORT
+==================================================
+
+[User: User11 (ISTP)]
+  ??Legacy 'Blood Chemistry' excluded.
+  Similarity Matrix:
+    - ?됱깮?ъ＜ vs ?щЪ?? 40.1%
+    - ?됱깮?ъ＜ vs ?좎젙?? 31.3%
+    - ?щЪ??vs ?좎젙?? 39.8%
+
+[User: User12 (ENFJ)]
+  ??Legacy 'Blood Chemistry' excluded.
+  Similarity Matrix:
+    - ?됱깮?ъ＜ vs ?щЪ?? 39.3%
+    - ?됱깮?ъ＜ vs ?좎젙?? 31.1%
+    - ?щЪ??vs ?좎젙?? 38.9%
+
+[User: User13 (INTJ)]
+  ??Legacy 'Blood Chemistry' excluded.
+  Similarity Matrix:
+    - ?됱깮?ъ＜ vs ?щЪ?? 39.4%
+    - ?됱깮?ъ＜ vs ?좎젙?? 30.7%
+    - ?щЪ??vs ?좎젙?? 37.6%
+
+?뱢 Overall Cross-Theme Similarity: 36.5%
+  ?좑툘 Redundancy still higher than target.

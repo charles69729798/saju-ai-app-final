@@ -1,0 +1,50 @@
+INFO:     Started server process [85632]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     127.0.0.1:55163 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55163 - "GET /api/categories HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55163 - "GET /service-worker.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55163 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:55163 - "GET /manifest.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55163 - "GET /icons/icon-192x192.png HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55163 - "GET /icons/icon-512x512.png HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60276 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60276 - "GET /api/categories HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60276 - "GET /service-worker.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60276 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:60276 - "GET /manifest.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60276 - "GET /icons/icon-192x192.png HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60276 - "GET /icons/icon-512x512.png HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60276 - "POST /api/saju/analyze HTTP/1.1" 422 Unprocessable Content
+INFO:     127.0.0.1:51459 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51459 - "GET /api/categories HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51459 - "GET /service-worker.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51459 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51459 - "GET / HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:51459 - "GET /manifest.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51459 - "GET /icons/icon-192x192.png HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51459 - "GET /icons/icon-512x512.png HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57633 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57633 - "GET /api/categories HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57633 - "GET /service-worker.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57633 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:57633 - "GET /manifest.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57633 - "GET /icons/icon-192x192.png HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57633 - "GET /icons/icon-512x512.png HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57633 - "POST /api/saju/analyze HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56952 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56952 - "GET /api/categories HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56952 - "GET /service-worker.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56952 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:56952 - "GET /manifest.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56952 - "GET /icons/icon-192x192.png HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56952 - "GET /icons/icon-512x512.png HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50911 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50911 - "GET /api/categories HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50911 - "GET /service-worker.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50911 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50911 - "GET /manifest.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50911 - "GET /icons/icon-192x192.png HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50911 - "GET /icons/icon-512x512.png HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50911 - "POST /api/saju/analyze HTTP/1.1" 200 OK

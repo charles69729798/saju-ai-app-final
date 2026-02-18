@@ -1,0 +1,228 @@
+INFO:     Started server process [52628]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     127.0.0.1:61263 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61263 - "GET /api/categories HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61263 - "GET /service-worker.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61263 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:61263 - "GET /manifest.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61263 - "GET /icons/icon-192x192.png HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61263 - "GET /icons/icon-512x512.png HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63387 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63387 - "GET /api/categories HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63387 - "GET /service-worker.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63387 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:63387 - "GET /manifest.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63387 - "GET /icons/icon-192x192.png HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63387 - "GET /icons/icon-512x512.png HTTP/1.1" 200 OK
+DEBUG PROFILE: {'birth_date': '1995-05-05', 'birth_time': '14:30', 'gender': 'M', 'is_lunar': False, 'name_korean': '김철수', 'name_hanja': '', 'mbti': '', 'nickname': '김철수', 'name': '김철수'}
+INFO:     127.0.0.1:63387 - "POST /api/saju/analyze HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58169 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58169 - "GET /api/categories HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58169 - "GET /service-worker.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58169 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:58169 - "GET /manifest.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58169 - "GET /icons/icon-192x192.png HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58169 - "GET /icons/icon-512x512.png HTTP/1.1" 200 OK
+DEBUG PROFILE: {'birth_date': '1990-01-01', 'birth_time': '12:00', 'gender': 'M', 'is_lunar': False, 'name_korean': '홍길동', 'name_hanja': '', 'mbti': '', 'nickname': '홍길동', 'name': '홍길동'}
+INFO:     127.0.0.1:58169 - "POST /api/saju/analyze HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51121 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51121 - "GET /api/categories HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51121 - "GET /service-worker.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51121 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51121 - "GET /manifest.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51121 - "GET /icons/icon-192x192.png HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51121 - "GET /icons/icon-512x512.png HTTP/1.1" 200 OK
+DEBUG PROFILE: {'birth_date': '1990-01-01', 'birth_time': '12:00', 'gender': 'M', 'is_lunar': False, 'name_korean': '홍길동', 'name_hanja': '', 'mbti': '', 'nickname': '홍길동', 'name': '홍길동'}
+INFO:     127.0.0.1:51121 - "POST /api/saju/analyze HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51403 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51403 - "GET /api/categories HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51403 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51403 - "GET /service-worker.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51403 - "GET /manifest.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51403 - "GET /icons/icon-192x192.png HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51403 - "GET /icons/icon-512x512.png HTTP/1.1" 200 OK
+DEBUG PROFILE: {'birth_date': '1990-01-01', 'birth_time': '12:00', 'gender': 'M', 'is_lunar': False, 'name_korean': '홍길동', 'name_hanja': '', 'mbti': '', 'nickname': '홍길동', 'name': '홍길동'}
+INFO:     127.0.0.1:51403 - "POST /api/saju/analyze HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51295 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51295 - "GET /api/categories HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51295 - "GET /service-worker.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51295 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51295 - "GET /manifest.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51295 - "GET /icons/icon-192x192.png HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51295 - "GET /icons/icon-512x512.png HTTP/1.1" 200 OK
+DEBUG PROFILE: {'birth_date': '1990-01-01', 'birth_time': '12:00', 'gender': 'M', 'is_lunar': False, 'name_korean': '홍길동', 'name_hanja': '', 'mbti': '', 'nickname': '홍길동', 'name': '홍길동'}
+INFO:     127.0.0.1:51295 - "POST /api/saju/analyze HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62166 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62166 - "GET /api/categories HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62166 - "GET /service-worker.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62166 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:62166 - "GET /manifest.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62166 - "GET /icons/icon-192x192.png HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62166 - "GET /icons/icon-512x512.png HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59158 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59158 - "GET /api/categories HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59158 - "GET /service-worker.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59158 - "GET /manifest.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59158 - "GET /icons/icon-192x192.png HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59158 - "GET /icons/icon-512x512.png HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59158 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+DEBUG PROFILE: {'birth_date': '1992-12-25', 'birth_time': '12:00', 'gender': 'F', 'is_lunar': False, 'name_korean': '이영희', 'name_hanja': '', 'mbti': '', 'nickname': '이영희', 'name': '이영희'}
+INFO:     127.0.0.1:59158 - "POST /api/saju/analyze HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52219 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52219 - "GET /api/categories HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52219 - "GET /service-worker.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52219 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:52219 - "GET /manifest.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52219 - "GET /icons/icon-192x192.png HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52219 - "GET /icons/icon-512x512.png HTTP/1.1" 200 OK
+DEBUG PROFILE: {'birth_date': '1990-01-01', 'birth_time': '12:00', 'gender': 'M', 'is_lunar': False, 'name_korean': '홍길동', 'name_hanja': '', 'mbti': '', 'nickname': '홍길동', 'name': '홍길동'}
+INFO:     127.0.0.1:52219 - "POST /api/saju/analyze HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55023 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55023 - "GET /api/categories HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55023 - "GET /service-worker.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55023 - "GET /manifest.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55023 - "GET /icons/icon-192x192.png HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55023 - "GET /icons/icon-512x512.png HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55023 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+DEBUG PROFILE: {'birth_date': '1990-01-01', 'birth_time': '12:00', 'gender': 'M', 'is_lunar': False, 'name_korean': '홍길동', 'name_hanja': '', 'mbti': '', 'nickname': '홍길동', 'name': '홍길동'}
+INFO:     127.0.0.1:55023 - "POST /api/saju/analyze HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60765 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60765 - "GET /api/categories HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60765 - "GET /service-worker.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60765 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:60765 - "GET /manifest.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60765 - "GET /icons/icon-192x192.png HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60765 - "GET /icons/icon-512x512.png HTTP/1.1" 200 OK
+DEBUG PROFILE: {'birth_date': '1990-01-01', 'birth_time': '12:00', 'gender': 'M', 'is_lunar': False, 'name_korean': '홍길동', 'name_hanja': '', 'mbti': '', 'nickname': '홍길동', 'name': '홍길동'}
+INFO:     127.0.0.1:60765 - "POST /api/saju/analyze HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56248 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56248 - "GET /api/categories HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56248 - "GET /service-worker.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56248 - "GET /manifest.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56248 - "GET /icons/icon-192x192.png HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56248 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:56248 - "GET /icons/icon-512x512.png HTTP/1.1" 200 OK
+DEBUG PROFILE: {'birth_date': '1990-01-01', 'birth_time': '12:00', 'gender': 'M', 'is_lunar': False, 'name_korean': '홍길동', 'name_hanja': '', 'mbti': '', 'nickname': '홍길동', 'name': '홍길동'}
+INFO:     127.0.0.1:56248 - "POST /api/saju/analyze HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59247 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59247 - "GET /api/categories HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59247 - "GET /service-worker.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59247 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:59247 - "GET /manifest.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59247 - "GET /icons/icon-192x192.png HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59247 - "GET /icons/icon-512x512.png HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51303 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51303 - "GET /api/categories HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51303 - "GET /service-worker.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51303 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51303 - "GET /manifest.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51303 - "GET /icons/icon-192x192.png HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51303 - "GET /icons/icon-512x512.png HTTP/1.1" 200 OK
+DEBUG PROFILE: {'birth_date': '1992-12-25', 'birth_time': '12:00', 'gender': 'F', 'is_lunar': False, 'name_korean': '이영희', 'name_hanja': '', 'mbti': '', 'nickname': '이영희', 'name': '이영희'}
+INFO:     127.0.0.1:51303 - "POST /api/saju/analyze HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55222 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55222 - "GET /api/categories HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55222 - "GET /service-worker.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55222 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:55222 - "GET /manifest.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55222 - "GET /icons/icon-192x192.png HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55222 - "GET /icons/icon-512x512.png HTTP/1.1" 200 OK
+DEBUG PROFILE: {'birth_date': '1990-01-01', 'birth_time': '12:00', 'gender': 'M', 'is_lunar': False, 'name_korean': '홍길동', 'name_hanja': '', 'mbti': '', 'nickname': '홍길동', 'name': '홍길동'}
+INFO:     127.0.0.1:55222 - "POST /api/saju/analyze HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60320 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60320 - "GET /api/categories HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60320 - "GET /service-worker.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60320 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:60320 - "GET /manifest.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60320 - "GET /icons/icon-192x192.png HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60320 - "GET /icons/icon-512x512.png HTTP/1.1" 200 OK
+DEBUG PROFILE: {'birth_date': '1990-01-01', 'birth_time': '12:00', 'gender': 'M', 'is_lunar': False, 'name_korean': '홍길동', 'name_hanja': '', 'mbti': '', 'nickname': '홍길동', 'name': '홍길동'}
+INFO:     127.0.0.1:60320 - "POST /api/saju/analyze HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57167 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57167 - "GET /api/categories HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57167 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:57167 - "GET /service-worker.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57167 - "GET /manifest.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57167 - "GET /icons/icon-192x192.png HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57167 - "GET /icons/icon-512x512.png HTTP/1.1" 200 OK
+DEBUG PROFILE: {'birth_date': '1990-01-01', 'birth_time': '12:00', 'gender': 'M', 'is_lunar': False, 'name_korean': '홍길동', 'name_hanja': '', 'mbti': '', 'nickname': '홍길동', 'name': '홍길동'}
+INFO:     127.0.0.1:57167 - "POST /api/saju/analyze HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53790 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53790 - "GET /api/categories HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53790 - "GET /service-worker.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53790 - "GET /manifest.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53790 - "GET /icons/icon-192x192.png HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53790 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53790 - "GET /icons/icon-512x512.png HTTP/1.1" 200 OK
+DEBUG PROFILE: {'birth_date': '1990-01-01', 'birth_time': '12:00', 'gender': 'M', 'is_lunar': False, 'name_korean': '홍길동', 'name_hanja': '', 'mbti': '', 'nickname': '홍길동', 'name': '홍길동'}
+INFO:     127.0.0.1:53790 - "POST /api/saju/analyze HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50491 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50491 - "GET /api/categories HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50491 - "GET /service-worker.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50491 - "GET /manifest.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50491 - "GET /icons/icon-192x192.png HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50491 - "GET /icons/icon-512x512.png HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50491 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:62432 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62432 - "GET /api/categories HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62432 - "GET /service-worker.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62432 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:62432 - "GET /manifest.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62432 - "GET /icons/icon-192x192.png HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62432 - "GET /icons/icon-512x512.png HTTP/1.1" 200 OK
+DEBUG PROFILE: {'birth_date': '1992-12-25', 'birth_time': '12:00', 'gender': 'F', 'is_lunar': False, 'name_korean': '이영희', 'name_hanja': '', 'mbti': '', 'nickname': '이영희', 'name': '이영희'}
+INFO:     127.0.0.1:62432 - "POST /api/saju/analyze HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54228 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54228 - "GET /api/categories HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54228 - "GET /service-worker.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54228 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54228 - "GET /manifest.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54228 - "GET /icons/icon-192x192.png HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54228 - "GET /icons/icon-512x512.png HTTP/1.1" 200 OK
+DEBUG PROFILE: {'birth_date': '1990-01-01', 'birth_time': '12:00', 'gender': 'M', 'is_lunar': False, 'name_korean': '홍길동', 'name_hanja': '', 'mbti': '', 'nickname': '홍길동', 'name': '홍길동'}
+INFO:     127.0.0.1:54228 - "POST /api/saju/analyze HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50817 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50817 - "GET /api/categories HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50817 - "GET /service-worker.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50817 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50817 - "GET /manifest.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50817 - "GET /icons/icon-192x192.png HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50817 - "GET /icons/icon-512x512.png HTTP/1.1" 200 OK
+DEBUG PROFILE: {'birth_date': '1990-01-01', 'birth_time': '12:00', 'gender': 'M', 'is_lunar': False, 'name_korean': '홍길동', 'name_hanja': '', 'mbti': '', 'nickname': '홍길동', 'name': '홍길동'}
+INFO:     127.0.0.1:50817 - "POST /api/saju/analyze HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63991 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63991 - "GET /api/categories HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63991 - "GET /service-worker.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63991 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:63991 - "GET /manifest.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63991 - "GET /icons/icon-192x192.png HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63991 - "GET /icons/icon-512x512.png HTTP/1.1" 200 OK
+DEBUG PROFILE: {'birth_date': '1990-01-01', 'birth_time': '12:00', 'gender': 'M', 'is_lunar': False, 'name_korean': '홍길동', 'name_hanja': '', 'mbti': '', 'nickname': '홍길동', 'name': '홍길동'}
+INFO:     127.0.0.1:63991 - "POST /api/saju/analyze HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57049 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57049 - "GET /api/categories HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57049 - "GET /service-worker.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57049 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:57049 - "GET /manifest.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57049 - "GET /icons/icon-192x192.png HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57049 - "GET /icons/icon-512x512.png HTTP/1.1" 200 OK
+DEBUG PROFILE: {'birth_date': '1990-01-01', 'birth_time': '12:00', 'gender': 'M', 'is_lunar': False, 'name_korean': '홍길동', 'name_hanja': '', 'mbti': '', 'nickname': '홍길동', 'name': '홍길동'}
+INFO:     127.0.0.1:57049 - "POST /api/saju/analyze HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57177 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57177 - "GET /api/categories HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57177 - "GET /service-worker.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57177 - "GET /manifest.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57177 - "GET /icons/icon-192x192.png HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57177 - "GET /icons/icon-512x512.png HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57177 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:58856 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58856 - "GET /api/categories HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58856 - "GET /service-worker.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58856 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:58856 - "GET /manifest.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58856 - "GET /icons/icon-192x192.png HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58856 - "GET /icons/icon-512x512.png HTTP/1.1" 200 OK
+DEBUG PROFILE: {'birth_date': '1992-12-25', 'birth_time': '12:00', 'gender': 'F', 'is_lunar': False, 'name_korean': '이영희', 'name_hanja': '', 'mbti': '', 'nickname': '이영희', 'name': '이영희'}
+INFO:     127.0.0.1:58856 - "POST /api/saju/analyze HTTP/1.1" 200 OK
